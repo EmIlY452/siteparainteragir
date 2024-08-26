@@ -10,7 +10,7 @@ section {
   align-items: center;
   height: auto;
   margin: 10px;
-  background-color: #90c4f1;
+  background-color: #9adcf8;
 }
 
 .container {
@@ -22,7 +22,7 @@ section {
 .motherboard {
   position: relative;
   width: 800px; /* Ajuste conforme necessário */
-  background-color: #fff;
+  background-color: #f8f9f9;
   border: 1px solid #ddd;
 }
 
@@ -116,7 +116,7 @@ section {
   left: 1150px; /* Ajuste conforme necessário */
   width: 40px;
   height: 130px;
-  border-color: rgba(244, 244, 252, 0.918);
+  border-color: rgba(248, 248, 249, 0.918);
 }
 
 /* Componentes encaixados */
@@ -199,7 +199,7 @@ section {
 .acertou,.erro{
   display:none;
   font-size: 60px;
-  color:red;
+  color:rgb(252, 0, 0);
   margin: 20px;
   text-align: center;  
   }
